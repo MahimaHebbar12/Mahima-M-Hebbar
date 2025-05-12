@@ -27,8 +27,3 @@ cd notebooks
 jupyter notebook WCDMA_Analysis.ipynb
 ```
 
-## 📂 Directory Structure
-
-- `src/` – Source code (sequence generation, metrics, plots)
-- `notebooks/` – Jupyter notebook for full simulation
-- `data/` – Optional: store sequences/results
